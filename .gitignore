@@ -2,3 +2,5 @@ Intermediate/
 Saved/
 *.pdb
 Binaries/
+.vsconfig
+.vs/
