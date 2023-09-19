@@ -9,3 +9,5 @@ How to run:
 3. Hit the play button
 
 You can also build and try it via LAN, but to do that, you need to install steam to your PC and run steam before playing.
+
+![Uploading How to run.png…]()
