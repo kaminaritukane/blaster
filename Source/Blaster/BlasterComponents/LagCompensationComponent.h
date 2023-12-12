@@ -174,6 +174,9 @@ private:
 	UPROPERTY(EditAnywhere)
 	float MaxRecordTime = 4.f;
 
+	UPROPERTY(EditAnywhere)
+	bool bShowFramePackages = false;
+
 public:	
 
 		
