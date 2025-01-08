@@ -1,10 +1,10 @@
 # blaster
 A test UE5 project including many shooting game features that can be used in my future indie game
 
-UE version: 5.3
+UE version: 5.4
 
 How to run: 
-1. Open with UE editor v5.3
+1. Open with UE editor v5.4
 2. Set "Number of Players" to 2 to 4, "Net Mode" to "Play As Listen Server"
 3. Hit the play button
 
