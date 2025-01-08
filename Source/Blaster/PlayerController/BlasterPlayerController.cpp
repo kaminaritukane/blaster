@@ -108,7 +108,7 @@ void ABlasterPlayerController::Tick(float DeltaSeconds)
 
 void ABlasterPlayerController::CheckPing(float DeltaSeconds)
 {
-	PlayerState = PlayerState == nullptr ? GetPlayerState<APlayerState>() : PlayerState;
+	PlayerState = GetPlayerState<APlayerState>();
 	if (PlayerState == nullptr) return;
 
 	SetPingValue(PlayerState->GetPingInMilliseconds());

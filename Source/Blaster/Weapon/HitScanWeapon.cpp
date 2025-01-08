@@ -10,6 +10,7 @@
 #include "Sound/SoundCue.h"
 #include "Kismet/KismetMathLibrary.h"
 #include "WeaponTypes.h"
+#include "Kismet/GameplayStatics.h"
 
 #include "DrawDebugHelpers.h"
 

@@ -62,7 +62,7 @@ private:
 	* Jump Buff
 	*/
 	FTimerHandle JumpBuffTimer;
-	void ResetJump();
+	void ResetJump ();
 	float InitialJumpVelocity;
 
 	UFUNCTION(NetMulticast, Reliable)
